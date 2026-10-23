@@ -1,0 +1,12 @@
+# Documentation License
+
+The documentation in this repository (`README.md` and everything under `docs/`)
+is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+
+You are free to share and adapt it for any purpose, including commercially,
+as long as you give appropriate credit, provide a link to the license, and
+indicate if changes were made.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Code in `scripts/` is licensed under the MIT License — see `LICENSE`.

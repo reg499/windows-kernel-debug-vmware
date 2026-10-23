@@ -1,0 +1,15 @@
+# Local configuration — contains your VM password and KDNET key. Never commit.
+config.local.ps1
+*.key.txt
+
+# Runtime output
+logs/
+sessions/
+*.log
+*.dmp
+
+# OS / editor noise
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
